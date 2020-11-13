@@ -5,7 +5,7 @@
 </a>                                 
 <br />
                                           
-!(https://media.giphy.com/media/1AeAqLJGLctTWktrAq/giphy.gif)
+![hippo](https://media.giphy.com/media/1AeAqLJGLctTWktrAq/giphy.gif)
                              
                              
 ### Riley Robinson 
