@@ -1,7 +1,7 @@
           
   ### Hello my Name is Riley Robinson im a Full Stack Web Developer with a passion for technologies, and space .I am Paticularly fond of 3D printers and what they mean for our future. As well as any major space expolration. Go space X!        
 
-         ![hippo](https://media.giphy.com/media/1AeAqLJGLctTWktrAq/giphy.gif)
+![hippo](https://media.giphy.com/media/1AeAqLJGLctTWktrAq/giphy.gif)
 
 
          ### Riley Robinson 
