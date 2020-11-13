@@ -4,7 +4,8 @@
          <img align="left" alt="Christian's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>                                 
 <br />
-<iframe src="https://giphy.com/embed/1AeAqLJGLctTWktrAq" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bredenkids-space-outerspace-ignition-1AeAqLJGLctTWktrAq">via GIPHY</a></p>
+                                          
+!(https://media.giphy.com/media/1AeAqLJGLctTWktrAq/giphy.gif)
                              
                              
 ### Riley Robinson 
