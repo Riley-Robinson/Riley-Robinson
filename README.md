@@ -5,7 +5,7 @@
 
 
          ### Riley Robinson 
-         - 🔭 I’m currently working on basic Golang 
+         - 🔭 I’m currently working on finding employment 
          - 🌱 I’m currently learning Golang, and to strengthen my python
          - 👯 My skills include React, JS, CSS, Node JS, Python, Redux, html, css, javascript
          - 🤔 I’m looking forward to learning more about Goland, and java script
